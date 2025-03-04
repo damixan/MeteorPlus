@@ -1,4 +1,4 @@
-package 
+package nekiplay.meteorplus.features.modules.misc;
 
 import meteordevelopment.meteorclient.events.game.ReceiveMessageEvent;
 import meteordevelopment.meteorclient.settings.Setting;
